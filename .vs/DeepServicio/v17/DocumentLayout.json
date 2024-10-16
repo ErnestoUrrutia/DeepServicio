@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DeepServicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A92119CA-4414-4B49-92C2-E85F8EB46807}|DeepServicio\\DeepServicio.csproj|c:\\deepservicio\\deepservicio\\deepservicioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92119CA-4414-4B49-92C2-E85F8EB46807}|DeepServicio\\DeepServicio.csproj|solutionrelative:deepservicio\\deepservicioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92119CA-4414-4B49-92C2-E85F8EB46807}|DeepServicio\\DeepServicio.csproj|c:\\deepservicio\\deepservicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92119CA-4414-4B49-92C2-E85F8EB46807}|DeepServicio\\DeepServicio.csproj|solutionrelative:deepservicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92119CA-4414-4B49-92C2-E85F8EB46807}|DeepServicio\\DeepServicio.csproj|C:\\DeepServicio\\deepservicio\\deepservicioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A92119CA-4414-4B49-92C2-E85F8EB46807}|DeepServicio\\DeepServicio.csproj|solutionrelative:deepservicio\\deepservicioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92119CA-4414-4B49-92C2-E85F8EB46807}|DeepServicio\\DeepServicio.csproj|c:\\deepservicio\\deepservicio\\deepservicioform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92119CA-4414-4B49-92C2-E85F8EB46807}|DeepServicio\\DeepServicio.csproj|solutionrelative:deepservicio\\deepservicioform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DeepServicio\\DeepServicio\\Program.cs",
+              "RelativeDocumentMoniker": "DeepServicio\\Program.cs",
+              "ToolTip": "C:\\DeepServicio\\DeepServicio\\Program.cs",
+              "RelativeToolTip": "DeepServicio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:54:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeepServicioForm.Designer.cs",
+              "DocumentMoniker": "C:\\DeepServicio\\DeepServicio\\DeepServicioForm.Designer.cs",
+              "RelativeDocumentMoniker": "DeepServicio\\DeepServicioForm.Designer.cs",
+              "ToolTip": "C:\\DeepServicio\\DeepServicio\\DeepServicioForm.Designer.cs",
+              "RelativeToolTip": "DeepServicio\\DeepServicioForm.Designer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:18:56.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeepServicioForm.cs",
+              "DocumentMoniker": "C:\\DeepServicio\\DeepServicio\\DeepServicioForm.cs",
+              "RelativeDocumentMoniker": "DeepServicio\\DeepServicioForm.cs",
+              "ToolTip": "C:\\DeepServicio\\DeepServicio\\DeepServicioForm.cs",
+              "RelativeToolTip": "DeepServicio\\DeepServicioForm.cs",
+              "ViewState": "AQIAAE4BAAAAAAAAAAAwwGUBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:12:10.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeepServicioForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\DeepServicio\\DeepServicio\\DeepServicioForm.cs",
+              "RelativeDocumentMoniker": "DeepServicio\\DeepServicioForm.cs",
+              "ToolTip": "C:\\DeepServicio\\DeepServicio\\DeepServicioForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DeepServicio\\DeepServicioForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:11:03.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

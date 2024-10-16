@@ -1,0 +1,2 @@
+C:\DeepServicio\DeepServicio\bin\Release\net8.0-windows\publish\win-x64\DeepServicio.pdb
+C:\DeepServicio\DeepServicio\bin\Release\net8.0-windows\publish\win-x64\DeepServicio.exe
