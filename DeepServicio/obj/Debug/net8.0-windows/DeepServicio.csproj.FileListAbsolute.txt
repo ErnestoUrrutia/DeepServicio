@@ -18,3 +18,4 @@ C:\DeepServicio\DeepServicio\bin\Debug\net8.0-windows\System.Management.dll
 C:\DeepServicio\DeepServicio\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
 C:\DeepServicio\DeepServicio\obj\Debug\net8.0-windows\DeepServicio.csproj.AssemblyReference.cache
 C:\DeepServicio\DeepServicio\obj\Debug\net8.0-windows\DeepServ.0D0E46D5.Up2Date
+C:\DeepServicio\DeepServicio\obj\Debug\net8.0-windows\DeepServicio.sourcelink.json
